@@ -1,0 +1,21 @@
+{
+  "name": "mocha-chai-quickstart",
+  "version": "0.0.1",
+  "description": "Learning how mocha and chai work",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/captainalan/mocha-chai-quickstart"
+  },
+  "author": "Alan Wong",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0"
+  }
+}
